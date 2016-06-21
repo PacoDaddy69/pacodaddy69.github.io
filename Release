@@ -1,0 +1,9 @@
+Package: pacodaddy69.github.io
+Name: PacoDaddy69's Public Repo
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Description: PacoDaddy69's iOS 9.1 Tweaks
+Homepage: www.google.com
+Maintainer: Patrick Eubanks <PacoDaddy69@gmail.com>
+Author: Patrick Eubanks <PacoDaddy69@gmail.com>
+Section: Aesthetics
